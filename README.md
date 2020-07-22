@@ -1,48 +1,51 @@
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-</p>
 
-### 👋 Hey Guys I'm Jhon
-I’m currently learning about data structures and algorithms : *https://algorithm.show*
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-### 👨‍💻 Languages and Tools
-
-[![AzureDevops](https://img.shields.io/badge/-AzureDevops-0175C2?style=flat&logo=azureDevops&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102) 
+### Hey 👋, I'm [Hritik Jaiswal]() 👨‍💻
 
 
-### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yubuntu0109&repo=leetcode-googtech)](https://github.com/yubuntu0109/leetcode-googtech)
+
+😃 Technical member of **[SheenCity](https://sheencity.com)** 
 
 
-### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=YUbuntu0109&show_icons=true&hide_border=true)
+### About me :eyes:
+
+- :dart: Front-End development   
+- :heart: Open source contributor
+- :writing_hand: Partial blogs on  **[site](https://blog.csdn.net/qq_20264891)** and solving bugs in **[StackOverflow](https://stackoverflow.com/users/11289686/zq-jhon)**
+- :e-mail: Ask me about anything ; **[ZQ-jhon@outlook.com](ZQ-jhon@outlook.com)**
+
+![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=ZQ-jhon&show_icons=true&hide_border=true)
+
+### Languages and Tools :computer:
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://github.com/ZQ-jhon) 
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)](https://github.com/ZQ-jhon)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/ZQ-jhon) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://github.com/ZQ-jhon) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)](https://github.com/ZQ-jhon) 
+[![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=Angular)](https://github.com/ZQ-jhon)
+[![Nest](https://img.shields.io/badge/-Nest-black?style=flat&logo=nestjs)](https://nestjs.com)
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://github.com/ZQ-jhon)
+[![vue](https://img.shields.io/badge/-Vue-black?style=flat&logo=vue.js)](https://vuejs.org)
 
 
-### 🔭 2020 Goal
-learning data structures and algorithms recently becauese I am preparing for postgraduate entry.
+
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://github.com/ZQ-jhon) 
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)](https://github.com/ZQ-jhon) 
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)](https://github.com/ZQ-jhon) 
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://github.com/ZQ-jhon)
+
+[![AzureDevops](https://img.shields.io/badge/-Azure-blue?style=flat&logo=azureDevops)](https://dev.azure.com/350037310/350037310)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/ZQ-jhon) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/ZQ-jhon)
 
 
-### ☕ Get In Touch
-- [Personal Site](http://ZQ-jhon.club)
-- [Partial Of Articles](https://blog.csdn.net/qq_20264891)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YUbuntu0109.YUbuntu0109)
+### Reach out to me 👓
+
+| <a href="https://ZQ-jhon.github.io/"><img src="https://avatars1.githubusercontent.com/u/26297704?s=460&u=5e1ad791157f9ec2097e238d219604f6025c2e10&v=4" width="150px" height="150px" /></a> |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                         **[ZQ-jhon](https://ZQ-jhon.github.io/)**                                                                          |
+|<a href="https://twitter.com/zq91258937">
+<img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> 
+<a href="https://github.com/ZQ-jhon"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> 
+<a href="https://www.quora.com/profile/Jhon-Zq"><img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2409201638,3148859939&fm=26&gp=0.jpg" width="32px" height="32px"></a>
