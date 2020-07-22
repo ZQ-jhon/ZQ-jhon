@@ -42,10 +42,9 @@
 
 ### Reach out to me 👓
 
-| <a href="https://ZQ-jhon.github.io/"><img src="https://avatars1.githubusercontent.com/u/26297704?s=460&u=5e1ad791157f9ec2097e238d219604f6025c2e10&v=4" width="150px" height="150px" /></a> |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                         **[ZQ-jhon](https://ZQ-jhon.github.io/)**                                                                          |
-|<a href="https://twitter.com/zq91258937">
+<a href="https://ZQ-jhon.github.io/"><img src="https://avatars1.githubusercontent.com/u/26297704?s=460&u=5e1ad791157f9ec2097e238d219604f6025c2e10&v=4" width="150px" height="150px" /></a>
+<br>
+<a href="https://twitter.com/zq91258937">
 <img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> 
 <a href="https://github.com/ZQ-jhon"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> 
 <a href="https://www.quora.com/profile/Jhon-Zq"><img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2409201638,3148859939&fm=26&gp=0.jpg" width="32px" height="32px"></a>
