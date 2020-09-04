@@ -1,11 +1,6 @@
 
 ### Hey 👋, I'm [ZQ-jhon](https://ZQ-jhon.github.io) 👨‍💻
 
-
-
-😃 Technical member of **[SheenCity](https://sheencity.com)** 
-
-
 ### About me :eyes:
 
 - :dart: Front-End development   
