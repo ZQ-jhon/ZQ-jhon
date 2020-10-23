@@ -10,7 +10,7 @@
 
 
 ### 🏆 Github Status
-![ZQ-jhon's github stats](https://github-readme-stats.vercel.app/api?username=ZQ-jhon&show_icons=true&hide_border=true)
+![ZQ-jhon's github stats](https://github-readme-stats.vercel.app/api?username=zq-JHON&theme=dark)
 
 
 
