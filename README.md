@@ -11,7 +11,7 @@
 
 ### 🏆 Github Status
 ![ZQ-jhon's github stats](https://github-readme-stats.vercel.app/api?username=zq-JHON&theme=dark)
-
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zq-jhon&hide=HTML&layout=compact&theme=dark&count_private=true&include_all_commits=true" />
 
 
 ### Languages and Tools :computer:
