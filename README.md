@@ -26,13 +26,10 @@
 [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=Angular)](https://github.com/ZQ-jhon)
 [![Nest](https://img.shields.io/badge/-Nest-black?style=flat&logo=nestjs)](https://nestjs.com)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://github.com/ZQ-jhon)
-# [![vue](https://img.shields.io/badge/-Vue-black?style=flat&logo=vue.js)](https://vuejs.org)
-
 
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://github.com/ZQ-jhon) 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)](https://github.com/ZQ-jhon) 
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://github.com/ZQ-jhon)
 
 [![AzureDevops](https://img.shields.io/badge/-Azure-blue?style=flat&logo=azureDevops)](https://dev.azure.com/350037310/350037310)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/ZQ-jhon) 
