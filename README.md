@@ -26,7 +26,7 @@
 [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=Angular)](https://github.com/ZQ-jhon)
 [![Nest](https://img.shields.io/badge/-Nest-black?style=flat&logo=nestjs)](https://nestjs.com)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://github.com/ZQ-jhon)
-[![Vue](https://img.shields.io/badge/vue-green)](https://github.com/ZQ-jhon)
+[![Vue](https://img.shields.io/badge/-vue-green?style=flat&logo=vue&logoColor=white)](https://github.com/ZQ-jhon)
 
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://github.com/ZQ-jhon) 
