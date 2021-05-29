@@ -29,6 +29,7 @@
 
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://github.com/ZQ-jhon) 
+[![Electron](https://img.shields.io/badge/-Electron-fff?style=flat&logo=electron)](https://github.com/ZQ-jhon) 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)](https://github.com/ZQ-jhon) 
 [![AzureDevops](https://img.shields.io/badge/-Azure-blue?style=flat&logo=azureDevops)](https://dev.azure.com/350037310/350037310)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/ZQ-jhon) 
