@@ -10,11 +10,7 @@
 
 
 ### 🏆 Github Status
-![Language Status](https://github-readme-stats.vercel.app/api/top-langs/?username=zq-jhon&hide=HTML&layout=compact&theme=dark&count_private=true&include_all_commits=true)
-
-<br/>
-
-![ZQ-jhon's github stats](https://github-readme-stats.vercel.app/api?username=zq-JHON&theme=dark)
+![Language Status](https://github-readme-stats.vercel.app/api/top-langs/?username=zq-jhon&hide=HTML&layout=compact&theme=dark&count_private=true&include_all_commits=true)![ZQ-jhon's github stats](https://github-readme-stats.vercel.app/api?username=zq-JHON&theme=dark)
 
 ### Languages and Tools :computer:
 
