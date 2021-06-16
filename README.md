@@ -17,8 +17,15 @@
 
 
 ### Languages and Tools :computer:
+No skills here.
+<!-- 
+
+Anti-comment under line if you want show skills.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?style=flat&logo=typescript) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![ReactiveX](https://img.shields.io/badge/-Rx.js-DA358E?style=flat&logo=ReactiveX) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=Angular) ![Nest](https://img.shields.io/badge/-Nest-black?style=flat&logo=nestjs) ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![Vue](https://img.shields.io/badge/-Vue-ffffff?logo=Vue.js) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js) ![Electron](https://img.shields.io/badge/-Electron-fff?style=flat&logo=electron) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) ![AzureDevops](https://img.shields.io/badge/-Azure-blue?style=flat&logo=azureDevops) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+
+-->
 ### 👀 Active Repo
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZQ-jhon&repo=backend)](https://github.com/ZQ-jhon/backend)
