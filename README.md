@@ -5,7 +5,7 @@
 
 - :dart: Front-End development   
 - :heart: Open source contributor
-- :writing_hand: Partial blogs on  **[site](https://blog.csdn.net/qq_20264891)** and solving bugs in **[StackOverflow](https://stackoverflow.com/users/11289686/zq-jhon)**
+- :writing_hand: Partial blogs on  **[site](https://zq-jhon.github.io)** and solving bugs in **[StackOverflow](https://stackoverflow.com/users/11289686/zq-jhon)**
 - :e-mail: Ask me about anything ; **[ZQ-jhon@outlook.com](ZQ-jhon@outlook.com)**
 
 
