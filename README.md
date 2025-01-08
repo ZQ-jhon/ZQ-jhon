@@ -32,7 +32,6 @@ Anti-comment under line if you want show skills.
 
 ### GitHub Trophies 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZQ-jhon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### Reach out to me 👓
 
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/zq91258937)
