@@ -30,7 +30,8 @@ Anti-comment under line if you want show skills.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZQ-jhon&repo=backend)](https://github.com/ZQ-jhon/backend)
 
-### GitHub Trophies [![trophy](https://github-profile-trophy.vercel.app/?username=ZQ-jhon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### GitHub Trophies 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZQ-jhon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Reach out to me 👓
 
